@@ -1,71 +1,77 @@
-# ☕ Coffee Shop App (Flutter)
+# ☕ BeanBliss - Premium Coffee Shop App
 
-## 📌 وصف التطبيق
+[![Coffee App Banner](assets/IMAGE/Banner.png)](https://github.com/NADAASHRAF191/coffee-app)
 
-تطبيق **Coffee Shop App** هو **مشروع تعليمي** تم تطويره باستخدام **Flutter**، ويُستخدم كمثال عملي في قناة يوتيوب لشرح بناء تطبيقات الموبايل بطريقة صحيحة ومنهجية.
-
-يهدف المشروع إلى تعليم المبرمجين كيفية تحويل تصميم جاهز من **Figma** إلى تطبيق Flutter فعلي، مع التركيز على جودة الكود، تنظيم الملفات، وبناء واجهات مستخدم قابلة للتوسع.
-
-هذا التطبيق **ليس منتجًا تجاريًا**، ولا يُقصد به الاستخدام الإنتاجي، وإنما يُستخدم كـ **حالة دراسية (Case Study)** تعليمية.
+BeanBliss is a high-end, feature-rich coffee ordering application built with **Flutter**. It provides a seamless and premium user experience for coffee enthusiasts, featuring a modern dark UI and smooth animations.
 
 ---
 
-## 🎯 أهداف المشروع
+## 🌟 Features
 
-- شرح تحويل تصميم Figma إلى Flutter UI
-- بناء Widgets نظيفة وقابلة لإعادة الاستخدام
-- تنظيم هيكل المشروع بطريقة احترافية
-- تطبيق أفضل الممارسات في تطوير تطبيقات Flutter
-- تقديم مثال واقعي يُستخدم في الشرح التعليمي
-
----
-
-## 🎨 التصميم (Figma)
-
-## [![Figma Design Preview](assets/Thumbnail.png)](https://www.figma.com/design/bbKalHaPICf3IFedNNd4Fx/Coffee-Shop-Mobile-App-Design--Community-?node-id=417-156&p=f&m=draw)
-
-## 📚 ماذا سوف تتعلم من هذا المشروع؟
-
-من خلال هذا المشروع ستتعلّم تطبيق المفاهيم الأساسية والمتقدمة في Flutter بشكل عملي، وليس نظريًا، ومن أهمها:
-
-- تحويل تصميم Figma إلى واجهات Flutter حقيقية
-- بناء واجهات مستخدم قابلة لإعادة الاستخدام (Reusable Widgets)
-- تنظيم هيكل المشروع بطريقة صحيحة وقابلة للتوسع
-- التعامل مع Navigation بين الشاشات
-- إدارة الحالة بأسلوب واضح ومنظّم
-- كتابة كود نظيف (Clean Code) وسهل القراءة
-- فصل منطق التطبيق عن واجهة المستخدم
-- تجنّب الأخطاء الشائعة في بناء تطبيقات Flutter
-
-هذا المشروع مصمَّم ليعلّمك **كيف تفكّر كمطوّر Flutter**،  
-وليس فقط كيف تكتب كود يعمل.
+*   **Premium Sleek UI**: A visually stunning dark theme designed for a modern aesthetic.
+*   **Hero Animations**: Fluid and professional transitions between screens.
+*   **Real-time Search**: Instant product filtering as you type.
+*   **Dynamic Categories**: Filter products by type (Espresso, Latte, Macchiato, etc.) with one tap.
+*   **Advanced Cart System**: Add, remove, and manage quantities in a persistent shopping bag.
+*   **Product Customization**: Select milk types, toppings, and sizes before ordering.
+*   **Favorites/Wishlist**: Save your favorite brews for quick access.
+*   **Comprehensive Navigation**: Includes Home, Favorites, Bag, and Profile screens.
+*   **Premium Onboarding**: Immersive welcome screen to engage users from the start.
 
 ---
 
-## 🛠️ التقنيات المستخدمة
+## 📱 Screenshots
 
-- Flutter
-- Dart
-- Material Design
+| Welcome Screen | Home View | Product Details | Shopping Bag |
+| :---: | :---: | :---: | :---: |
+| ![Welcome](assets/IMAGE/welome_secren.png) | ![Home](assets/Thumbnail.png) | ![Details](assets/IMAGE/1.png) | ![Cart](assets/ICONS/Bag.png) |
 
----
-
-## 📺 المحتوى التعليمي
-
-يتم شرح هذا المشروع خطوة بخطوة على قناة يوتيوب، مع التركيز على التطبيق العملي، وفهم الأسباب الهندسية وراء كل قرار برمجي.
+*(Note: Replace with actual screenshots of your app for a better presentation)*
 
 ---
 
-## ⚠️ ملاحظة مهمة
+## 🛠️ Built With
 
-> هذا المشروع لأغراض تعليمية فقط،  
-> ولا يُنصح باستخدامه في التطبيقات التجارية أو البيئات الإنتاجية.
+*   **Flutter**: For cross-platform UI development.
+*   **Dart**: The powerful language behind Flutter.
+*   **Clean Code Architecture**: Organized for scalability and maintainability.
+*   **Custom Design System**: Bespoke typography and color palettes.
 
-## 🌐 قنوات التواصل
+---
 
-يمكنك متابعة المحتوى التعليمي ومشاهدة الشروحات الكاملة عبر القنوات التالية:
+## 📌 Description (Arabic)
 
-- 📺 **YouTube**: https://youtube.com/@hamza.codevus?si=LAriNEi2tBZesdGy
-- 📸 **Instagram**: https://www.instagram.com/hamza.codevus?igsh=MTEzYzlpYzU5NXR6cQ==
-- 📘 **Facebook**: https://www.facebook.com/share/1G4aAcGAUt/
-- 💻 **GitHub**: https://github.com/Hamza775-7788
+**تطبيق BeanBliss هو تطبيق متطور لطلب القهوة تم بناؤه باستخدام Flutter. يقدم تجربة مستخدم فاخرة ومتكاملة، حيث يتميز بواجهة داكنة أنيقة وتأثيرات بصرية متقدمة.**
+
+### أهم المميزات:
+*   **واجهة مستخدم احترافية:** تصميم عصري وجذاب يركز على الفخامة.
+*   **تأثيرات Hero:** حركات انتقالية سلسة تجعل التنقل بين الصفحات تجربة ممتعة.
+*   **البحث الفوري:** العثور على مشروبك المفضل بسرعة فائقة.
+*   **نظام السلة المتكامل:** إدارة المشتريات والكميات وحساب الإجمالي تلقائياً.
+*   **تخصيص الطلب:** اختيار نوع الحليب والإضافات والحجم لكل مشروب.
+*   **قائمة المفضلة:** حفظ المشروبات المفضلة للوصول السريع إليها.
+*   **شاشة ترحيب بريميوم:** واجهة دخول مبهرة تجذب المستخدمين.
+
+---
+
+## 🚀 Getting Started
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/NADAASHRAF191/coffee-app.git
+    ```
+2.  **Get dependencies:**
+    ```bash
+    flutter pub get
+    ```
+3.  **Run the app:**
+    ```bash
+    flutter run
+    ```
+
+---
+
+## 🌐 Developed By
+
+**NADA ASHRAF**  
+[GitHub Profile](https://github.com/NADAASHRAF191)
