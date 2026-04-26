@@ -14,7 +14,7 @@ class LocationWidget extends StatelessWidget {
           "Location",
           style: MyTextStyle.subTitleText(color: Color(0xffB7B7B7), size: 12),
         ),
-        const SizedBox(height: 4),
+        const SizedBox(height: 4.5),
         Row(
           children: [
             Text(
